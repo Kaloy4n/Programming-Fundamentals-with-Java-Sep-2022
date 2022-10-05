@@ -1,4 +1,4 @@
-package dataTypesandVariables.exercise;
+package dataTypesandVariables.Exercises;
 
 import java.util.Scanner;
 

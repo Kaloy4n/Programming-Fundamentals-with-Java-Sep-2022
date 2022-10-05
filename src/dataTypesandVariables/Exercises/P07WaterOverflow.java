@@ -1,4 +1,4 @@
-package dataTypesandVariables.exercise;
+package dataTypesandVariables.Exercises;
 
 /*You have a water tank with a capacity of 255 liters.
 On the next n lines, you will receive liters of water, which you must pour into your tank.
