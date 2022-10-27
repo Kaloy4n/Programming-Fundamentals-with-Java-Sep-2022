@@ -1,4 +1,4 @@
-package DataTypesandVariables.MoreExercises;
+package DataTypesAndVariables.MoreExercises;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package DataTypesandVariables;
+package DataTypesAndVariables;
 
 import java.util.Scanner;
 
