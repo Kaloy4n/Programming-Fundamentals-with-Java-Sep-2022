@@ -1,4 +1,4 @@
-package BasicSyntaxExercise;
+package BasicSyntax.Exercises;
 
 import java.util.Scanner;
 
@@ -7,11 +7,11 @@ public class P09Orders {
         Scanner scanner = new Scanner(System.in);
 
         int orders = Integer.parseInt(scanner.nextLine());
-        double price = 0;
-        int days = 0;
-        int capsulesCount = 0;
+        double price;
+        int days;
+        int capsulesCount;
         double sum = 0;
-        double currentPrice = 0;
+        double currentPrice;
 
         for (int i = 1; i <=orders ; i++) {
             price = Double.parseDouble(scanner.nextLine());
