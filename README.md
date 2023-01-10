@@ -6,3 +6,8 @@ This is a repository with solutions to basic terminal problems offered in the So
 + Data Types And Variables
 + Methods
 + Objects And Classes
++ Associative Arrays (Maps)
++ Databases Basics
++ Text Processing
++ Regular Expressions
++ QA Introduction
